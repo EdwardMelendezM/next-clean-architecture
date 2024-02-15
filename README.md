@@ -28,3 +28,9 @@ I will say, I've never done this clean architecture type of approach on a next.j
 ## TODO
 
 - make everything responsive
+
+## Clean architecture
+- Domain
+- Infrastructure
+- Interface
+- UseCase
